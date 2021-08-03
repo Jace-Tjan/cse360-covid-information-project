@@ -1,4 +1,4 @@
-package cse360proj;
+//package cse360proj;
 import java.awt.Label;
 import java.io.File;
 import java.io.FileWriter;
