@@ -1,4 +1,4 @@
-package cse360proj;
+//package cse360proj;
 public class Person {
 	private String ID;
 	private String lastName;
