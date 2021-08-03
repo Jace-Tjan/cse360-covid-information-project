@@ -1,4 +1,4 @@
-package cse360proj;
+//package cse360proj;
 import java.awt.GridLayout;
 import java.awt.Label;
 import java.io.BufferedReader;
