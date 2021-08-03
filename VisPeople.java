@@ -1,4 +1,4 @@
-package cse360proj;
+//package cse360proj;
 
 public class VisPeople {
 	private String type;
