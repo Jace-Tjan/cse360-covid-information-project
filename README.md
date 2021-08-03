@@ -17,4 +17,4 @@ Project is created with:
 ## Setup
 To run this project, install it:
 Place all the .java files into a project folder that has the libraries under the technologies section and run the main.
-Use the given .csv files for testing.
+Use the given .csv files for testing and JCommon/Junit libraries may be unnesscessary to run it.
